@@ -24,13 +24,11 @@
 
 ## Professional Summary
 
-I build data-driven systems and intelligent applications that move from idea to production with speed and structure. My work blends analytics, backend engineering, and AI integrations to create solutions that are scalable, efficient, and built for real-world usage.
+I design and ship production-ready systems that solve real operational problems. I have built a Hospital Management System, intelligent Chatbots, and ERP systems focused on efficiency, automation, and scalability.
 
-From analytics dashboards to full-stack platforms and AI-powered agents, I focus on clean architecture, automation, and performance. I don’t build demos — I build systems that ship.
+My work combines backend architecture, data handling, and AI integrations to create systems that streamline workflows and improve decision-making. I prioritize clean code, structured system design, and long-term maintainability.
 
-Alongside development, I create technical content and scripts that break down complex topics into practical, actionable insights for developers and builders.
-
----
+I don’t build prototypes that sit in folders — I build solutions that are meant to be deployed, used, and scaled.
 
 ## Tech Stack
 
