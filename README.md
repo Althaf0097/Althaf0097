@@ -62,48 +62,14 @@ I don’t build prototypes that sit in folders — I build solutions that are me
 </p>
 
 ---
-
-## Core Focus Areas
+## Focus & Collaboration
 
 - AI Agents & LLM Integrations  
-- Scalable Backend Systems  
-- Automation Workflows  
-- Full-Stack Application Development  
-- Data Analytics & Visualization  
-- Developer-Focused Content Creation  
+- Scalable Backend & Full-Stack Systems  
+- Automation & Data Engineering  
+- Production-Ready Applications  
+- Open to AI, SaaS, and Automation Projects  
 
----
-
-## Current Focus
-
-- Building AI-powered agents  
-- Designing scalable backend architectures  
-- Developing automation tools  
-- Creating AI-driven content workflows  
-- Shipping production-ready full-stack apps  
-
----
-
-## What You’ll Find Here
-
-- Real-world data analysis projects  
-- AI experiments and agent systems  
-- Automation scripts  
-- Full-stack applications  
-- Developer utilities  
-- Learning-in-public repositories  
-
----
-
-## Collaboration Interests
-
-- AI & Agent Systems  
-- Automation & Workflow Engineering  
-- Data Engineering Projects  
-- SaaS & Full-Stack Applications  
-- Technical Content & Educational Builds  
-
----
 
 ## Philosophy
 
