@@ -1,4 +1,4 @@
-<h1 align="center">Athaf</h1>
+<h1 align="center">ALTHAF S</h1>
 
 <h3 align="center">Data Analyst | Python Developer | Full-Stack Developer | AI Builder | Flutter Developer | Content Creator</h3>
 
